@@ -12,6 +12,6 @@
 
 <library file=TauImpactParameterTest.cc name=TauImpactParameterTest>
   <use name=FWCore/Framework>
-  <flags EDM_PLUGIN=1>
+  <flags SEAL_PLUGIN_NAME="TauImpactParameterTest">
 </library>
 
